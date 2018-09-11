@@ -1,5 +1,5 @@
 #include <math.h>
-
+#include <stdio.h>
 
       int math(int num1, int num2, char operator) //initializes the two numbers and the operator
       {
