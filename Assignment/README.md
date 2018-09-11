@@ -20,5 +20,6 @@ Mathematical Operations are:
 * Bitwise inverse: ~
 
 Examples:
-int math(int 2, int 4, char +); Return: 6
+int math(int 2, int 4, char +); Return: 6 
+
 int math(int 8, int 5, char *); Return: 40
